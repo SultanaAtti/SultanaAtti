@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T21:39:54.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.2" etag="acSPdTge6B1MR7oLUs61" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T22:21:06.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yDpIDxtwvr442ZNHBz2Z" version="22.1.2" type="github">
   <diagram name="Page-1" id="y5dQKz-uyxk_PhbYn942">
-    <mxGraphModel>
+    <mxGraphModel dx="1390" dy="1412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="220" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-4" value="&lt;ol&gt;&lt;li&gt;&amp;nbsp;Onboard Restaurant&amp;nbsp;&lt;/li&gt;&lt;li&gt;&amp;nbsp;Onboard Client&amp;nbsp;&lt;/li&gt;&lt;li&gt;inventory Management&lt;/li&gt;&lt;li&gt;Order Management system&amp;nbsp;&lt;/li&gt;&lt;li&gt;Life Cycle of Orders&amp;nbsp;&lt;/li&gt;&lt;li&gt;Delivery Life Cycle&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Notifications&amp;nbsp;&lt;/li&gt;&lt;li&gt;Payment System&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-140" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-5" value="&lt;b&gt;Food Delivery&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-190" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="140" y="70" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-7" value="User Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="70" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-9" value="Inventory Management&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-14" value="Order Manangement Lifecycle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="175" y="240" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-18" value="Notifications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="25" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-19" value="Delivery Management Service&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-22" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="625" y="-35" width="60" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-23" value="Distributed queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="505" y="115" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-25" value="Payment Method" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="575" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-27" value="&lt;ol&gt;&lt;li&gt;Place Order(Order order)&lt;/li&gt;&lt;li&gt;Get Status of Order (Int OrderID)&amp;nbsp;&lt;/li&gt;&lt;li&gt;SetPrice(User ID, Order order)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3A)Get Pricing(User ID, Order order, Int RestaurantID)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3B)GetPricing(userID , Order order, Int RestID String, ItemName)&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="325" y="400" width="405" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-28" value="&lt;ol&gt;&lt;li&gt;Int OrderID&lt;/li&gt;&lt;li&gt;List&amp;lt;RestaurantOrder&amp;gt;RestOrder&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="25" y="480" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-29" value="&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;String ItemNames&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Int Quantity&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="25" y="560" width="185" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="boY5F5J7t2kOfQ15B0l5-30" value="&lt;ol style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Int OrderID&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;List&amp;lt;Items&amp;gt;Items&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="25" y="670" width="310" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
